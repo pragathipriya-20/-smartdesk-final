@@ -1,4 +1,5 @@
 # SmartDesk – Production Full-Stack AI Customer Support Management System
+hello testing
 
 **SmartDesk** is an enterprise-ready, full-stack customer service operations platform equipped with AI ticket analysis, multi-user response threading, role-based access control (RBAC), SQLite persistent storage, and a responsive React frontend with Light/Dark mode.
 
